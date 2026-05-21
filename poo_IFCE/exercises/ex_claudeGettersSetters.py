@@ -21,7 +21,7 @@ class Produto:
         self.__preco = valor
 
 produto_um = Produto(150)
-
+produto_um.preco = 180
 
 print(f'O preço do produto é R$ {produto_um.preco}')
 

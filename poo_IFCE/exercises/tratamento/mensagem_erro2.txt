@@ -1,0 +1,1 @@
+R$ -150.0 EH INVALIDO. Escreva um numero positivo.

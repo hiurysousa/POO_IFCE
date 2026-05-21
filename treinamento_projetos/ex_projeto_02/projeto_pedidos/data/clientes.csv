@@ -1,0 +1,5 @@
+id,nome,email
+1,João Silva,joao@email.com
+2,Maria Souza,maria@email.com
+3,,erro@email.com
+4,Carlos Lima,carlos.email.com  
